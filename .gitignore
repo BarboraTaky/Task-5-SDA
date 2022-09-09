@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 file1.txt
 Task-5-SDA
 excluded
 
 .gitignore
+=======
+excluded/
+
+*.bat
+>>>>>>> branch-3
