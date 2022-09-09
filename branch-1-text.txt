@@ -1,0 +1,1 @@
+Tohle jsem modifikovala kvůli branch-conflict s branch-conflict-2
